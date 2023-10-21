@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(25, 2, 128, 0.842)
+}
+.demo {
+    color: aliceblue;
+    margin: 40px;
+}
+.ex {
+    margin: 100px 200px;
+    color: aliceblue;
+}
